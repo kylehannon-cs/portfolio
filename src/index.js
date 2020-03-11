@@ -22,9 +22,13 @@ function MyInfo() {
 
 	return( 
 		<div> 
-		<h1 style={{color:'red'}}>Kyle Hannon's Computer Science Portfolio </h1>
+		<h1 style={{color:'red'}}>Kyle Hannon's Computer Science Portfolio</h1>
 		<p>I am a student at Oregon State University - Cascades and am persuing a computer science degree</p>
-		<p> This site is under construction. Please come back soon </p>
+		<ul> 
+			<li>Japan</li>
+			<li>Germany</li>
+			<li>Canada</li>
+		</ul>
 		</div>
 		)
 
